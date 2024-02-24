@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Here is my new portfolio. Just take a look through this. <br><br>Try it On: <a href="https://shensme.000webhostapp.com/" target="_blank">Portfolio</a></p>
+<p align="left">Here is my new portfolio. Just take a look through this. <br><br>Try it On: <a href="https://shensme.000webhostapp.com/" target="_blank">URL</a></p>
 
 ###
 
